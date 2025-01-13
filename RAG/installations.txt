@@ -1,0 +1,5 @@
+pip install langchain
+pip install langchain-community
+pip install chromadb
+pip install ollama
+pip install sentence-transformers
