@@ -1,0 +1,7 @@
+transformers
+huggingface_hub 
+datasets 
+evaluate 
+requests 
+urllib3 
+ 
